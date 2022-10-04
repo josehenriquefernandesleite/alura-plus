@@ -65,3 +65,36 @@ body{
 .container__caixa{
     margin: 0 6em;
 }
+
+/*seção secundaria*/
+
+.secundario__imagem{
+    width: 80%;
+}
+
+.secundario{
+    align-items: center;
+    margin: 0 10em;
+}
+
+.container__descricao{
+    margin-left: 50px;
+}
+
+.descricao__titulo{
+    width: 588px;
+    height: 58px;
+    color: var(--branco-principal);
+    font-weight: 700;
+    font-size: 48px;
+    line-height: 120%;
+}
+
+.descricao__texto{
+    width: 588px;
+    height: 48px;
+    color: var(--cinza-secundario);
+    line-height: 150%;
+    font-weight: 400;
+    opacity: 80%;
+}
