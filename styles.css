@@ -94,7 +94,15 @@ body{
     width: 588px;
     height: 48px;
     color: var(--cinza-secundario);
-    line-height: 150%;
     font-weight: 400;
     opacity: 80%;
+}
+
+.secundario__botao{
+    display: inline-block;
+    margin-top: 20px;
+}
+
+.container__descricao{
+    padding: 2em;
 }
